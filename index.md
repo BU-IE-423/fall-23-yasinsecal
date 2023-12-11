@@ -13,10 +13,10 @@ This is progress journal for both group and individual works.
 ## Part-2
 
 ### Code Document:
-[Part-2 Code](Part-II/Part-II_v2.ipynb)
+[Part-2 Code](Part-II/Part-II_V2.ipynb)
 
 ### Report:
 
-[Part-2 Report](Part-II/Part-II_v2.html)
+[Part-2 Report](Part-II/Part-II_V2.html)
 
 
