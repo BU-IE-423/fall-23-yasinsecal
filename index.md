@@ -19,4 +19,12 @@ This is progress journal for both group and individual works.
 
 [Part-2 Report](Part-II/Part-II_V2.html)
 
+## Part-3
+
+### Code Document:
+[Part-3 Code](Part-III/Part-III.ipynb)
+
+### Report:
+[Part-3 Report](Part-III/IE423-PartIII.pdf)
+
 
